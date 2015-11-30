@@ -1,12 +1,12 @@
 <?php
 
 	class conexion{
-
+		
 		private $conexion ;
-		private $server = "fdb7.biz.nf";
-		private $username = "1982557_unidasbd";
-		private $password = "unidasbd1";
-		private $dbname = "1982557_unidasbd";
+		private $server = "us-cdbr-iron-east-03.cleardb.net";
+		private $username = "beb3bc414324dd";
+		private $password = "97741eec";
+		private $dbname = "heroku_0da25f9d8cd62f7";
 		private $user;
 		private $pass;
 
