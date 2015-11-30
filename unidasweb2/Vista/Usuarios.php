@@ -251,6 +251,6 @@
 <?php
 
 	}else{
-		header("Location: ..");
+		header("Location: ../..");
 	}
 ?>
